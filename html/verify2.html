@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Verification</title>
+    <link rel="stylesheet" href="..\css\style.css">
+    <script src="..\js\otp_verification2.js"></script>
+</head>
+<body id="body">
+    <h1>Gohelp!</h1>
+    <fieldset style="width: 500px;">
+        <h2>OTP Verification</h2>
+    <table>
+
+        <tr>
+            <td>
+                <br>
+                <input type="number" placeholder="Enter OTP" id="OTP2">
+            </td>
+        </tr>
+        <tr>
+           <td><button type="button" onclick="otp_verification2()" id="otp_verify">Verify</button></td>
+        </tr>
+        <tr>
+            <td>
+                <p>Do you want to send OTP again?</p>
+            </td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="resend_otp2()" id="resend_otp">Resend OTP</button></td>
+        </tr>
+    </table>  
+    
+      <p id="otp_error2"></p>
+</body>
+</html>

@@ -1,0 +1,66 @@
+#confirm_container{
+    background-color: rgb(218, 231, 206);
+    width: 600px;
+    height: 400px;
+    margin-left: 370px;
+    margin-top: 0px;
+    border-radius: 0.5cm;
+    box-shadow: 5px 5px 10px 5px rgb(101, 119, 106);
+}
+h1{
+        color: rgb(19, 22, 20);
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 2cm;
+        font-weight: 100;
+        text-align: center;
+        
+}
+#clientname,p{
+    color: rgb(24, 73, 9);
+    font-weight: 100;
+    text-align: center;
+    font-size: 0.6cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    margin-left: 210px;
+    width: 200px;
+    height: 50px;
+    border-radius: 0.3cm;
+    border: 0px;
+    background-color: rgb(123, 158, 71);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    text-align: center;
+    font-size: 0.5cm;
+    text-decoration: none;
+}
+button:hover{
+    margin-left: 210px;
+    width: 200px;
+    height: 50px;
+    border-radius: 0.3cm;
+    border: 2px solid rgb(42, 59, 13);
+    background-color: rgb(123, 158, 71);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    text-align: center;
+    font-size: 0.5cm;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+#head{
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+}
+#body{
+    background-color: rgb(152, 156, 160);
+    background-image: url("../images/bg.webp"),linear-gradient(rgba(0, 0, 0, 100),rgb(0, 0, 0,100));
+    background-size: cover;
+    background-blend-mode: overlay;
+    
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign Up page</title>
+    <link rel="stylesheet" href="..\css\style.css">
+    <script src="..\js\signup_validation.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body id="body">
+    <h1>Gohelp!</h1>
+    <fieldset id="field1">
+    <table id="t1">
+        <h2><i class="fa-regular fa-user fa-beat-fade fa-2xs usericon" style="color: #1f5127;"></i>New Account</h2>
+        <tr>
+            <td><input type="text" placeholder="FirstName" id="fname"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="LastName" id="lname"></td>
+        </tr>
+        <tr>
+            <td><input type="number" placeholder="Mobile Number" id="phone"></td>
+        </tr>
+        <tr>
+           
+            <td><input type="email" placeholder="Email-Id" id="email"></td>
+        </tr>
+        <tr>
+            
+            <td><input type="password" placeholder="Enter Password" id="Password"></td>
+        </tr>
+        <tr>
+           
+            <td><input type="password" placeholder="Re-enter Password" id="confirm_password"></td>
+        </tr>
+        </table> 
+        <table>
+        <tr>
+            <td>
+                <button type="button" id="cancel" onclick="cancel()">Cancel</button>
+            </td>
+            <p id="error"></p>
+            <td>
+                <button id="sign_up" onclick="sign_up_validation()">Sign Up</button>
+            </td>
+        </tr>
+        
+    </table>
+    </fieldset>
+</body>
+</html>
