@@ -35,7 +35,7 @@ h1{
     background-image: url("../images/bg.webp"),linear-gradient(rgba(0, 0, 0, 100),rgb(0, 0, 0,100));
     background-size: cover;
     background-blend-mode: overlay;
-    margin-left: 50px;
+    margin-left: 11cm;
 }
 table{
     margin-left: auto;
@@ -54,7 +54,7 @@ input{
 }
 fieldset{
     padding: 30px 10px;
-    margin-left: 50px;
+    margin-left: 11cm;
     background-color: rgb(196, 240, 167);
     border-radius: 0.5cm;
     border-width: 0.5cm;
