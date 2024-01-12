@@ -10,7 +10,7 @@ function login_Validation(){
         }
     }
     if(flag==true){
-        window.location.href="./home.html"
+        window.location.href="./Home.html"
     }else{
 document.getElementById("signin_error").innerHTML="*Invalid Username or Incorrect Password"
 document.getElementById("signin_error").style.color="red"
