@@ -52,6 +52,14 @@ input{
    text-align: center;
    font-size: large;
 }
+legend{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(230, 247, 235);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 0px;
+}
 fieldset{
     padding: 30px 10px;
     margin-left: 11cm;
