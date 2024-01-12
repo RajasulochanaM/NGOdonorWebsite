@@ -7,6 +7,6 @@ function trustplace(){
     }else if(choice == 'Chennai'){
         window.location.href="./chennai.html";
     }else {
-        window.location.href="./home.html";
+        window.location.href="./Home.html";
     }
 }
