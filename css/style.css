@@ -271,9 +271,9 @@ mark{
 }
 #field3{
     float: left; 
-     width: 10cm;
+     width: 9cm;
      height: 4cm;
-     padding-left: 1cm;
+     padding: 0.5cm;
      border-radius: 0.3cm;
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
@@ -281,9 +281,9 @@ mark{
 }
 #field4{
     float: left; 
-    width: 10cm;
+    width: 19cm;
      height: 4cm;
-     padding-left: 1cm;
+     padding-left: 0.5cm;
      border-radius: 0.3cm;
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
@@ -292,9 +292,9 @@ mark{
 }
 #field5{
      float: left; 
-     width: 10cm;
+     width: 9cm;
      height: 4cm;
-     padding-left: 1cm;
+     padding-left: 0.5cm;
      border-radius: 0.3cm;
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
@@ -313,9 +313,9 @@ mark{
     border-width: 0.2cm;
     margin: auto;
     margin-top: 0.3cm;
-    width: 10cm;
+    width: 9cm;
      height: 4cm;
-     padding-left: 1cm;
+     padding-left: 0.5cm;
     margin-left: 5cm;
 }
 #field7{
@@ -326,9 +326,9 @@ mark{
     margin: auto;
     margin-top: 0.3cm;
     width: fit-content;
-    width: 10cm;
+    width: 9cm;
      height: 4cm;
-     padding-left: 1cm;
+     padding-left: 0.5cm;
 }
 .t1,#th{
     padding-left: 2px;
