@@ -221,6 +221,7 @@ h2{
         padding-bottom: 30px ;
         background-color: rgb(196, 240, 167);
         margin-left: 0.5cm;
+        width: fit-content;
 }
 #error{
     font-size: medium;
