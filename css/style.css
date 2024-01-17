@@ -211,6 +211,17 @@ h2{
     color: green;
     border: 1px solid green;
 }
+#field1{
+    width: 550px;
+    padding-top: 0px;
+    height: 11cm;
+    border-radius: 0.5cm;
+    border-width: 0.5cm;
+    border-color: black;
+    margin-left: 365px;
+    margin-top: auto;
+    display: inline-block;
+}
 
 #field2{  
         border-radius: 0.3cm;
