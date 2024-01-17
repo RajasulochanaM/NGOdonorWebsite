@@ -57,7 +57,7 @@ fieldset{
     border-radius: 0.5cm;
     border-width: 0.5cm;
     border-color: black;
-    margin-left: 50px;
+    padding-left: 200px;
     float: left;
 }
 button{
