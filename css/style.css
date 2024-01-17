@@ -314,8 +314,8 @@ mark{
     border-width: 0.2cm;
     margin: auto;
     margin-top: 0.3cm;
-    width: 20cm;
-     height: 10cm;
+    width: fit-content;
+     height:fit-content;
      padding-left: 0.5cm;
     margin-left: 5cm;
 }
@@ -327,8 +327,8 @@ mark{
     margin: auto;
     margin-top: 0.3cm;
     width: fit-content;
-    width: 9cm;
-     height: 4cm;
+   
+     height:fit-content;
      padding-left: 0.5cm;
 }
 .t1,#th{
