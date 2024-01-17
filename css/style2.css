@@ -70,6 +70,16 @@ a{
 h2{
     text-align: center;
         }
+fieldset{
+    background-color: rgb(196, 240, 167);
+    border-radius: 0.5cm;
+    border-width: 0.5cm;
+    border-color: black;
+    float: left;
+    padding: 0px;
+    margin-left:454px;
+    width: fit-content;
+}
 #field1{
     width: 550px;
     padding-top: 0px;
