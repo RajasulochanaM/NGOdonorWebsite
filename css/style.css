@@ -289,11 +289,11 @@ mark{
      border-width: 0cm;
      margin-left: 1cm;
      padding-left: 0.2cm;
-    
+    padding-top: 0.2cm;
 }
 #field4{
     float: left; 
-    width: 9.5cm;
+    width: 10cm;
      height: 5cm;
      padding-left: 0.2cm;
      border-radius: 0.3cm;
@@ -301,12 +301,14 @@ mark{
      border-width: 0cm;
      margin-left: 1cm;
      margin-top: 0.3cm;
+     padding-top: 0.2cm;
 }
 #field5{
+    padding-top: 0.2cm;
      float: left; 
-     width: 9cm;
+     width: 10cm;
      height: 4cm;
-     padding-left: 0.5cm;
+     padding-left: 0.2cm;
      border-radius: 0.3cm;
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
