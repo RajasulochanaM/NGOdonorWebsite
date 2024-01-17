@@ -277,12 +277,14 @@ mark{
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
      margin-left: 1cm;
+     padding-left: 0.2cm;
+     padding-right: 0.2cm;
 }
 #field4{
     float: left; 
-    width: 11cm;
+    width: 10cm;
      height: 5cm;
-     padding-left: 0.5cm;
+     padding-left: 0.2cm;
      border-radius: 0.3cm;
      background-color: rgb(216, 250, 215);
      border-width: 0cm;
