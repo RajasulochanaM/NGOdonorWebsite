@@ -53,11 +53,11 @@ input{
    font-size: large;
 }
 fieldset{
-    padding: 30px 10px;
     background-color: rgb(196, 240, 167);
     border-radius: 0.5cm;
     border-width: 0.5cm;
     border-color: black;
+
 }
 button{
     background-color: rgb(39, 170, 61);
