@@ -59,14 +59,6 @@ legend{
             color: rgb(230, 247, 235);
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             padding: 20px 0px;
-        }
-fieldset{
-    padding: 30px 10px;
-    margin-left: 12cm;
-    background-color: rgb(196, 240, 167);
-    border-radius: 0.5cm;
-    border-width: 0.5cm;
-    border-color: black;
 }
 button{
     background-color: rgb(39, 170, 61);
